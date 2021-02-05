@@ -1,0 +1,19 @@
+"name": "libcult",
+"version": "1.4.6",
+"repository": {
+    "type": "git",
+    "url": "https://github.com/OpenOxyhydrogenResearch/libcult.git"
+}
+"authors": [
+    {
+        "name": "John Smith",
+        "email": "me@john-smith.com",
+        "url": "https://www.john-smith/contact"
+    },
+    {
+        "name": "Andrew Smith",
+        "email": "me@andrew-smith.com",
+        "url": "https://www.andrew-smith/contact",
+        "maintainer": true
+    }
+]
