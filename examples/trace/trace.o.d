@@ -1,15 +1,15 @@
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/examples/trace/trace.o.d \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/examples/trace/trace.o: \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/examples/trace/trace.cxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/types.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/types/fundamental.hxx \
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/examples/trace/trace.o.d \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/examples/trace/trace.o: \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/examples/trace/trace.cxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/types.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/types/fundamental.hxx \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/cstddef \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin/bits/c++config.h \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin/bits/os_defines.h \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin/bits/cpu_defines.h \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/stddef.h \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/types/string.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/eh/exception.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/types/string.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/eh/exception.hxx \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/exception \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/exception.h \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/exception_ptr.h \
@@ -21,7 +21,7 @@
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/nested_exception.h \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/move.h \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/type_traits \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/containers/iterator.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/containers/iterator.hxx \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/iterator \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/stl_iterator_base_types.h \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/stl_iterator_base_funcs.h \
@@ -118,29 +118,29 @@
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin/bits/error_constants.h \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/stdexcept \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/streambuf.tcc \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/types/evptr.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/evptr.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/exception.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/bits/evptr.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/meta/answer.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/counter.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/counter.ixx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/new.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/config.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/meta/polymorphic-p.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/meta/class-p.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/meta/remove-cv.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/meta/remove-c.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/meta/remove-v.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/new.ixx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/static-ptr.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/types/evptr.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/evptr.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/exception.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/bits/evptr.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/meta/answer.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/counter.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/counter.ixx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/new.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/config.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/meta/polymorphic-p.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/meta/class-p.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/meta/remove-cv.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/meta/remove-c.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/meta/remove-v.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/new.ixx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/static-ptr.hxx \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/cassert \
  /usr/include/assert.h \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/types/shptr.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/shptr.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/bits/shptr.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/log.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/record.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/types/shptr.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/shptr.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/bits/shptr.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/log.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/record.hxx \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/cstring \
  /usr/include/string.h /usr/include/strings.h /usr/include/sys/string.h \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/ostream \
@@ -154,21 +154,21 @@
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/locale_facets.tcc \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/basic_ios.tcc \
  /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/ostream.tcc \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/record.ixx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/record.txx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/log.ixx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/stream.hxx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/stream.ixx \
- /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/stream.txx
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/types.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/types/fundamental.hxx:
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/record.ixx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/record.txx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/log.ixx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/stream.hxx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/stream.ixx \
+ /cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/stream.txx
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/types.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/types/fundamental.hxx:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/cstddef:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin/bits/c++config.h:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin/bits/os_defines.h:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin/bits/cpu_defines.h:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/stddef.h:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/types/string.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/eh/exception.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/types/string.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/eh/exception.hxx:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/exception:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/exception.h:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/exception_ptr.h:
@@ -180,7 +180,7 @@
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/nested_exception.h:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/move.h:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/type_traits:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/containers/iterator.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/containers/iterator.hxx:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/iterator:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/stl_iterator_base_types.h:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/stl_iterator_base_funcs.h:
@@ -305,29 +305,29 @@
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/x86_64-pc-cygwin/bits/error_constants.h:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/stdexcept:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/streambuf.tcc:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/types/evptr.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/evptr.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/exception.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/bits/evptr.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/meta/answer.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/counter.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/counter.ixx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/new.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/config.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/meta/polymorphic-p.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/meta/class-p.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/meta/remove-cv.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/meta/remove-c.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/meta/remove-v.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/new.ixx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/static-ptr.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/types/evptr.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/evptr.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/exception.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/bits/evptr.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/meta/answer.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/counter.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/counter.ixx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/new.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/config.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/meta/polymorphic-p.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/meta/class-p.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/meta/remove-cv.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/meta/remove-c.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/meta/remove-v.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/new.ixx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/static-ptr.hxx:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/cassert:
 /usr/include/assert.h:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/types/shptr.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/shptr.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/mm/bits/shptr.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/log.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/record.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/types/shptr.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/shptr.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/mm/bits/shptr.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/log.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/record.hxx:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/cstring:
 /usr/include/string.h:
 /usr/include/strings.h:
@@ -343,9 +343,9 @@
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/locale_facets.tcc:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/basic_ios.tcc:
 /usr/lib/gcc/x86_64-pc-cygwin/10/include/c++/bits/ostream.tcc:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/record.ixx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/record.txx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/log.ixx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/stream.hxx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/stream.ixx:
-/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1-dist/libcult/cult/trace/stream.txx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/record.ixx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/record.txx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/log.ixx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/stream.hxx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/stream.ixx:
+/cygdrive/c/Users/The_E/OneDrive/Documents/PlatformIO/Projects/xsde-3.2.0-1+dep/libcult/cult/trace/stream.txx:
