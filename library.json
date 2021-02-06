@@ -1,19 +1,87 @@
-"name": "libcult",
-"version": "1.4.6",
-"repository": {
-    "type": "git",
-    "url": "https://github.com/OpenOxyhydrogenResearch/libcult.git"
-}
-"authors": [
-    {
-        "name": "John Smith",
-        "email": "me@john-smith.com",
-        "url": "https://www.john-smith/contact"
+{
+    "name": "libcult",
+    "version": "1.4.6",
+    "description": "libcult is a collection of c++ libraries that were designed to form a cohesive union of clean, simple and readable c++ code that uses the most powerful mechanisms available on the GNU development platform.",
+    "keywords": "xsd,xsde",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OpenOxyhydrogenResearch/libcult.git"
     },
-    {
-        "name": "Andrew Smith",
-        "email": "me@andrew-smith.com",
-        "url": "https://www.andrew-smith/contact",
-        "maintainer": true
-    }
-]
+    "authors": [
+        {
+            "name": "Boris Kolpackov",
+            "email": "boris@kolpackov.net",
+             "maintainer": true
+        }
+    ],
+    "license": "GNU GPL v2",
+    "homepage": "http://kolpackov.net/projects/c++/libcult/",
+    "frameworks": "*",
+    "platforms": "*",
+    "examples": [
+        {
+            "name": "cli",
+            "base": "examples/cli",
+            "files": [
+                "*"
+            ]
+        },
+        {
+            "name": "xdr",
+            "base": "examples/dr/xdr",
+            "files": [
+                "*"
+            ]
+        },
+        {
+            "name": "shptr",
+            "base": "examples/mm/shptr",
+            "files": [
+                "*"
+            ]
+        },
+        {
+            "name": "transfer",
+            "base": "examples/mm/transfer",
+            "files": [
+                "*"
+            ]
+        },
+        {
+            "name": "trace",
+            "base": "examples/trace",
+            "files": [
+                "*"
+            ]
+        },
+        {
+            "name": "main",
+            "base": "examples/sched/main",
+            "files": [
+                "*"
+            ]
+        },
+        {
+            "name": "cancel",
+            "base": "examples/sched/cancel",
+            "files": [
+                "*"
+            ]
+        },
+        {
+            "name": "datagram",
+            "base": "examples/os/net/ipv4/datagram",
+            "files": [
+                "*"
+            ]
+        },
+        {
+            "name": "multicast",
+            "base": "examples/os/net/ipv4/multicast",
+            "files": [
+                "*"
+            ]
+        }
+    ]
+}
+
