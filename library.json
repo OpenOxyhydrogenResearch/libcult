@@ -14,7 +14,7 @@
              "maintainer": true
         }
     ],
-    "license": "GNU GPL v2",
+    "license": "GPL-2.0-only",
     "homepage": "http://kolpackov.net/projects/c++/libcult/",
     "frameworks": "*",
     "platforms": "*",
